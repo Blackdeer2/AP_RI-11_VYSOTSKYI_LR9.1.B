@@ -1,0 +1,6 @@
+﻿  PR9.1.B.cpp
+C:\Student\PR9.1.B\PR9.1.B\PR9.1.B.cpp(58,12): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+C:\Student\PR9.1.B\PR9.1.B\PR9.1.B.cpp(61,12): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+C:\Student\PR9.1.B\PR9.1.B\PR9.1.B.cpp(65,12): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+C:\Student\PR9.1.B\PR9.1.B\PR9.1.B.cpp(75,10): warning C4566: character represented by universal-character-name '\u2116' cannot be represented in the current code page (1252)
+  PR9.1.B.vcxproj -> C:\Student\PR9.1.B\x64\Debug\PR9.1.B.exe
